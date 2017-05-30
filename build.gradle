@@ -1,0 +1,4 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName='test.HelloWorld'
+org.hibernate:hibernate-core:5.2.10.Final
